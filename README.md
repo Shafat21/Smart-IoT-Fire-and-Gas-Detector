@@ -1,4 +1,4 @@
-# 🔥 Fire and Gas Detector System
+# 🔥 Smart IoT Fire and Gas Detector System
 
 An IoT-based hazard monitoring system built with an ESP32 microcontroller to detect fire and gas leaks. The system sends real-time alerts through the **Blynk IoT app** and provides on-site warnings using LEDs and a buzzer.
 
