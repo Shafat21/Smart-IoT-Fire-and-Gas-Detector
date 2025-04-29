@@ -118,7 +118,7 @@ Includes:
 
 ## 📜 License
 
-This project is released under the **MIT License**for academic and non-commercial use.
+This project is released under the **MIT License ** for academic and non-commercial use.
 
 ---
 
