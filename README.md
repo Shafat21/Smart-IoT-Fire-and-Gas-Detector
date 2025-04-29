@@ -88,8 +88,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ## 🖼️ Project Preview
 
-> _You can insert a photo of the working project here._  
-> ![Project Preview](https://r2.fivemanage.com/7ws2Qi0iofi4fjfcLeenz/ProjectVideo.mp4)
+> ![Project Preview Video](https://r2.fivemanage.com/7ws2Qi0iofi4fjfcLeenz/ProjectVideo.mp4)
 
 ---
 ## 📄 Full Report
