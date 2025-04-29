@@ -86,6 +86,12 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
+## 🖼️ Project Preview
+
+> _You can insert a photo of the working project here._  
+> ![Project Preview](https://r2.fivemanage.com/7ws2Qi0iofi4fjfcLeenz/ProjectVideo.mp4)
+
+---
 ## 📄 Full Report
 
 📘 [Download Full Report (PDF)](https://github.com/Shafat21/Smart-IoT-Fire-and-Gas-Detector/blob/b715efa33dae41ead3a95e4826a53d3eb1e2b318/Project%20Report%20.pdf)
