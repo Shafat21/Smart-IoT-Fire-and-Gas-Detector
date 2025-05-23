@@ -1,4 +1,4 @@
-# 🔥 Smart IoT Fire and Gas Detector System
+# 🔥 Smart IoT Fire and Gas Detector System:
 
 An IoT-based hazard monitoring system built with an ESP32 microcontroller to detect fire and gas leaks. The system sends real-time alerts through the **Blynk IoT app** and provides on-site warnings using LEDs and a buzzer.
 
@@ -6,7 +6,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 📌 Project Goals
+## 📌 Project Goals:
 
 - Monitor fire and gas levels in real time.
 - Notify users remotely via Blynk mobile app.
@@ -15,7 +15,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🛠️ Hardware Used
+## 🛠️ Hardware Used:
 
 | Component         | Description                            |
 |------------------|----------------------------------------|
@@ -29,7 +29,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🧠 Features
+## 🧠 Features:
 
 - 🔥 Dual Hazard Detection: Flame and gas.
 - 📲 Real-Time Alerts: Notifications through Blynk IoT.
@@ -38,7 +38,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🧪 System Workflow
+## 🧪 System Workflow:
 
 1. Sensors (MQ2 + Flame) monitor the environment.
 2. Sensor readings are sent to the ESP32.
@@ -50,7 +50,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 📲 Blynk Integration
+## 📲 Blynk Integration:
 
 | Virtual Pin | Function         |
 |-------------|------------------|
@@ -63,7 +63,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🧩 Circuit Pin Mapping
+## 🧩 Circuit Pin Mapping:
 
 | Component        | ESP32 GPIO |
 |------------------|------------|
@@ -77,7 +77,7 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🧑‍💻 Team Contributions
+## 🧑‍💻 Team Contributions:
 
 - **Circuit Design** – Marjana Begum, Moumita Das Mou  
 - **Flame Sensor Calibration** – Tahmid Samin  
@@ -86,12 +86,12 @@ An IoT-based hazard monitoring system built with an ESP32 microcontroller to det
 
 ---
 
-## 🖼️ Project Preview
+## 🖼️ Project Preview:
 
 > ![Project Preview Video](https://r2.fivemanage.com/7ws2Qi0iofi4fjfcLeenz/ProjectVideo.mp4)
 
 ---
-## 📄 Full Report
+## 📄 Full Report:
 
 📘 [Download Full Report (PDF)](https://github.com/Shafat21/Smart-IoT-Fire-and-Gas-Detector/blob/b715efa33dae41ead3a95e4826a53d3eb1e2b318/Project%20Report%20.pdf)
 
@@ -104,7 +104,7 @@ Includes:
 
 ---
 
-## 📎 How to Run
+## 📎 How to Run:
 
 1. Clone this repository
 2. Open the code in Arduino IDE
@@ -116,13 +116,13 @@ Includes:
 
 ---
 
-## 📜 License
+## 📜 License:
 
 This project is released under the **MIT License ** for academic and non-commercial use.
 
 ---
 
-## 👨‍🏫 Instructor
+## 👨‍🏫 Instructor:
 
 **Nawshad Ahmed Chowdhury**  
 Head, Department of EEE  
@@ -130,7 +130,7 @@ Metropolitan University, Sylhet
 
 ---
 
-## 🎓 Institution
+## 🎓 Institution:
 
 **Metropolitan University, Sylhet**  
 Department of B.Sc. in Software Engineering  
